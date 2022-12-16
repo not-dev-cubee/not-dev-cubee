@@ -1,7 +1,5 @@
 <div align="center">
   
-  <img align="right" src="http://mazandi.herokuapp.com/api?handle=cubee&theme=warm"/>
-  
   ### Seok Gyun
   
   ---
